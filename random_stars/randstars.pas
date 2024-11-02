@@ -2,7 +2,7 @@ program RandomStars;
 uses crt;
 
 const
-	DelayDuration = 20;
+	DelayDuration = 5;
 	ColorCount = 16;
 var
 	AllColors: array [1..ColorCount] of word = 
